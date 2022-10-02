@@ -1,0 +1,7 @@
+VERSION:3 SOURCE_TIMESTAMP:54BAB6DC
+NODE:I LEVEL:0 LINE:24 "I:\cvavr\inc\mega32.h"
+NODE:I LEVEL:0 LINE:25 "I:\cvavr\inc\stdio.h"
+NODE:I LEVEL:0 LINE:27 "I:\cvavr\inc\alcd.h"
+NODE:F LEVEL:0 LINE:32 "ext_int0_isr(void)"
+NODE:I LEVEL:0 LINE:49 "I:\cvavr\inc\stdio.h"
+NODE:F LEVEL:0 LINE:51 "main(void)"
